@@ -1,7 +1,7 @@
 plaudio
 =======
 
-Plaudio is an html5 <audio> tag with an extra Web Audio connect method. 
+Plaudio is an html5 <audio> player with an extra Web Audio connect method. 
 
 ## Usage
 
