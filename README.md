@@ -5,7 +5,7 @@ Plaudio is an html5 <audio> player with an extra Web Audio connect method.
 
 ## Usage
 
-```
+```html
 <script src="Plaudio.js"></script>
 <script>
 
